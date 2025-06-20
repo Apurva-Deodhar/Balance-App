@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta content="IE=Edge" http-equiv="X-UA-Compatible" />
+    <meta name="description" content="A new Flutter project" />
+    <meta name="google-signin-client_id" content="783048189433-j7hr6u5l7n6hkk4jaffkgj0scekbauum.apps.googleusercontent.com" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>homepage</title>
+    <base href="/" />
+
+    <!-- Firebase SDKs -->
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js"></script>
+
+    <!-- Firebase configuration -->
+    <script>
+      const firebaseConfig = {
+        apiKey: "AIzaSyAbsYhYH7lu19sShUvio48dblTu5aekCYs",
+        authDomain: "balance-131e6.firebaseapp.com",
+        projectId: "balance-131e6",
+        storageBucket: "gs://balance-131e6",
+        messagingSenderId: "783048189433",
+        appId: "1:783048189433:web:c6d9213ff3f687f43dc928",
+        measurementId: "G-J5G67BV1YH"
+      };
+
+      firebase.initializeApp(firebaseConfig);
+    </script>
+
+    <!-- Flutter JS -->
+    <link rel="manifest" href="manifest.json" />
+    <script defer src="flutter.js"></script>
+  </head>
+  <body>
+    <script>
+      window.addEventListener('load', function () {
+        _flutter.loader.loadEntrypoint({
+          serviceWorker: {
+            serviceWorkerVersion: 'v1',
+          },
+          onEntrypointLoaded: async function (engineInitializer) {
+            let appRunner = await engineInitializer.initializeEngine();
+            await appRunner.runApp();
+          }
+        });
+      });
+    </script>
+  </body>
+</html>

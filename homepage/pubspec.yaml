@@ -1,0 +1,78 @@
+name: homepage
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.32.0
+  firebase_auth: ^4.17.4
+  cloud_firestore: ^4.14.0
+  flutter_colorpicker: ^1.0.3
+  cupertino_icons: ^1.0.8
+  just_audio: ^0.9.36
+  intl: ^0.18.1
+  http: ^1.0.0 
+  audioplayers: ^5.2.1
+  google_fonts: ^6.1.0
+  provider: ^6.1.2
+  lottie: ^2.3.0
+  google_sign_in: ^6.1.5
+  firebase_storage: ^11.6.7
+  image_picker: ^1.1.0
+  file_picker: ^6.1.1
+  connectivity_plus: ^5.0.1
+  internet_connection_checker: ^1.0.0
+  firebase_crashlytics: ^3.5.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/word1.png
+    - assets/Logo1.png
+    - assets/meditation.jpg
+    - assets/calm1.mp3
+    - assets/calm2.mp3
+    - assets/calm3.mp3
+    - assets/breath1.mp3
+    - assets/breath2.mp3
+    - assets/guided1.mp3
+    - assets/guided2.mp3
+    - assets/google_icon.png
+    - assets/profile_icon.png
+    - assets/mood_0.png
+    - assets/mood_1.png
+    - assets/mood_2.png
+    - assets/mood_3.png
+    - assets/mood_4.png
+    - assets/angry.gif
+    - assets/happy.gif
+    - assets/neutral.gif
+    - assets/sad.gif
+    - assets/data.json
+    - assets/426Breathing.jpg
+    - assets/478Breathing.jpg
+    - assets/AlternateBreathing.jpeg
+    - assets/DiaphragmaticBreathing.png
+    - assets/LionBreath.jpeg
+    - assets/squarebreathing.png
+    - assets/TriangleBreathing.jpg
+    - assets/avatar.png
+    - assets/dog.png
+    - assets/crocodile.png
+    - assets/elephant.png
+    - assets/giraffe.png
+    - assets/panda.png
+    - assets/penguin.png

@@ -1,0 +1,91 @@
+[
+  {
+    "techniqueName": "Box Breathing (Four-Square Breathing)",
+    "howTo": [
+      "1. Sit or lie comfortably.",
+      "2. Inhale slowly for a count of four.",
+      "3. Hold your breath for four seconds.",
+      "4. Exhale slowly for four seconds.",
+      "5. Hold your breath for four seconds.",
+      "6. Repeat this cycle for a few minutes."
+    ],
+    "benefits": "Can help regulate the nervous system, reduce stress, and improve focus.",
+    "whenToUse": "During moments of high stress or anxiety, or for general relaxation.",
+    "techniqueImage": "assets/squarebreathing.png"
+  },
+  {
+    "techniqueName": "4-7-8 Breathing",
+    "howTo": [
+      "1. Inhale quietly through your nose for four seconds.",
+      "2. Hold your breath for seven seconds.",
+      "3. Exhale forcefully through your mouth, making a 'whoosh' sound for eight seconds.",
+      "4. Repeat this cycle four times or as needed."
+    ],
+    "benefits": "Can help calm the nervous system, reduce anxiety, and promote relaxation.",
+    "whenToUse": "When feeling anxious, having trouble falling asleep, or needing to calm down quickly.",
+    "techniqueImage": "assets/478Breathing.jpg"
+  },
+  {
+    "techniqueName": "Diaphragmatic Breathing (Belly Breathing)",
+    "howTo": [
+      "1. Sit or lie down in a comfortable position.",
+      "2. Place one hand on your chest and the other on your belly.",
+      "3. Breathe in slowly through your nose, allowing your belly to rise.",
+      "4. Exhale slowly through your mouth, letting your belly fall.",
+      "5. Continue this breathing pattern for a few minutes."
+    ],
+    "benefits": "Promotes relaxation by engaging the diaphragm, which is a key muscle for breathing, and can help reduce stress and anxiety.",
+    "whenToUse": "Whenever you feel the need to relax or de-stress.",
+    "techniqueImage": "assets/DiaphragmaticBreathing.png"
+  },
+  {
+    "techniqueName": "Alternate Nostril Breathing",
+    "howTo": [
+      "1. Sit comfortably and relax your shoulders.",
+      "2. Close your right nostril with your thumb and inhale deeply through your left nostril.",
+      "3. Close your left nostril with your ring finger, release your thumb, and exhale through your right nostril.",
+      "4. Inhale through your right nostril, then close it with your thumb.",
+      "5. Release your ring finger and exhale through your left nostril.",
+      "6. Repeat this alternating cycle for a few minutes."
+    ],
+    "benefits": "Can help reduce stress and anxiety by activating the parasympathetic nervous system, which is responsible for the 'rest and digest' response.",
+    "whenToUse": "When feeling stressed or anxious, or to promote relaxation.",
+    "techniqueImage": "assets/AlternateBreathing.jpeg"
+  },
+  {
+    "techniqueName": "Lion's Breath",
+    "howTo": [
+      "1. Inhale deeply through your nose.",
+      "2. Open your mouth wide and stick out your tongue.",
+      "3. Exhale forcefully through your mouth while making a 'ha' sound.",
+      "4. Repeat this process 3-5 times."
+    ],
+    "benefits": "Relieves tension in the face and jaw, improves circulation, and helps release stress.",
+    "whenToUse": "When feeling tense or need an energy boost.",
+    "techniqueImage": "assets/LionBreath.jpeg"
+  },
+  {
+    "techniqueName": "Triangle 5-5-5 Breathing",
+    "howTo": [
+      "1. Inhale deeply for 5 seconds.",
+      "2. Hold your breath for 5 seconds.",
+      "3. Exhale slowly for 5 seconds.",
+      "4. Repeat the cycle for a few minutes."
+    ],
+    "benefits": "Balances oxygen and carbon dioxide levels, promotes calmness, and helps improve focus.",
+    "whenToUse": "Before a big event, exam, or to clear the mind.",
+    "techniqueImage": "assets/TriangleBreathing.jpg"
+  },
+  {
+    "techniqueName": "4-2-6 Breathing",
+    "howTo": [
+      "1. Inhale deeply for 4 seconds.",
+      "2. Hold your breath for 2 seconds.",
+      "3. Exhale slowly for 6 seconds.",
+      "4. Repeat this breathing cycle a few times."
+    ],
+    "benefits": "Encourages slower, deeper breathing, helping to calm the nervous system and reduce stress.",
+    "whenToUse": "When feeling overwhelmed or needing to slow down.",
+    "techniqueImage": "assets/426Breathing.jpg"
+  }
+]
